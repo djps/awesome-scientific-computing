@@ -20,7 +20,7 @@ them.
 - [Sparse linear solvers](#sparse-linear-solvers)
 - [Visualization](#visualization)
 - [ODEs](#odes)
-- [GPus](#gpus)
+- [GPUs](#gpus)
 - [Other libraries and tools](#other-libraries-and-tools)
 - [Community](#community)
 
@@ -183,6 +183,10 @@ them.
 
 - [Boost Compute](http://boostorg.github.io/compute/) provides a C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
 
+
+## Other
+
+- [Sundials](https://computing.llnl.gov/projects/sundials) SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. (C/C++/Fortran, BSD-3, [GitHub](https://github.com/LLNL/sundials) )
 
 ## Other libraries and tools
 
