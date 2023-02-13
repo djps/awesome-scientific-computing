@@ -1,6 +1,6 @@
 # Awesome Scientific Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="30%">](#readme)
+[<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="25%">](#readme)
 
 > Useful resources for scientific computing and numerical analysis.
 
@@ -19,6 +19,8 @@ them.
 - [Data formats](#data-formats)
 - [Sparse linear solvers](#sparse-linear-solvers)
 - [Visualization](#visualization)
+- [ODEs](#odes)
+- [GPus](#gpus)
 - [Other libraries and tools](#other-libraries-and-tools)
 - [Community](#community)
 
@@ -172,6 +174,15 @@ them.
 - [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
 - [morphologica](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
+
+## ODEs
+
+- [Boost OdeInt](https://www.boost.org/doc/libs/1_81_0/libs/numeric/odeint/doc/html/index.html) A library for solving initial value problems (IVP) of ordinary differential equations. (C++, Boost, [GitHub](https://github.com/boostorg/odeint)) 
+
+## GPUs
+
+- [Boost Compute](http://boostorg.github.io/compute/) provides a C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
+
 
 ## Other libraries and tools
 
