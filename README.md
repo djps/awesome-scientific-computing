@@ -184,9 +184,16 @@ them.
 - [Boost Compute](http://boostorg.github.io/compute/) provides a C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
 
 
-## Other
+## Solvers
 
 - [Sundials](https://computing.llnl.gov/projects/sundials) SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. (C/C++/Fortran, BSD-3, [GitHub](https://github.com/LLNL/sundials) )
+
+## Wave propagation
+
+- [jaxwell](https://github.com/stanfordnqp/jaxwell) an iterative solver for solving the finite-difference frequency-domain Maxwell equations on NVIDIA GPUs (Python, GPL-3, GitHub )
+- [jwave](https://ucl-bug.github.io/jwave) k-Wave in JAX (Python, LGPL-3, [GitHub](https://github.com/ucl-bug/jwave) )
+- [HITU_simulator](https://github.com/jsoneson/HITU_Simulator) nonlinear axisymmetric beamer simulator (Matlab, GPL-3, GitHub )
+
 
 ## Other libraries and tools
 
