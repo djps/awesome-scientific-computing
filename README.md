@@ -2,7 +2,7 @@
 
 [<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="25%">](#readme)
 
-> Useful resources for scientific computing and numerical analysis.
+> Useful resources for scientific computing and numerical analysis, with a selection of ultrasound tools 
 
 Scientific computing and numerical analysis are research fields that aim to provide
 methods for solving large-scale problems from various areas of science with the help of
