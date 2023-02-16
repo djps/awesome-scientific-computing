@@ -12,8 +12,6 @@ them.
 
 ## Contents
 
-:toc
-
 - [Basic linear algebra](#basic-linear-algebra)
 - [Multi-purpose toolkits](#multi-purpose-toolkits)
 - [Finite Elements](#finite-elements)
