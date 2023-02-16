@@ -12,6 +12,8 @@ them.
 
 ## Contents
 
+:toc
+
 - [Basic linear algebra](#basic-linear-algebra)
 - [Multi-purpose toolkits](#multi-purpose-toolkits)
 - [Finite Elements](#finite-elements)
@@ -21,8 +23,11 @@ them.
 - [Visualization](#visualization)
 - [ODEs](#odes)
 - [GPUs](#gpus)
+- [Solvers](#solvers)
+- [Wave Propagation](#wave-propagation)
 - [Other libraries and tools](#other-libraries-and-tools)
 - [Community](#community)
+
 
 ## Basic linear algebra
 
@@ -177,22 +182,22 @@ them.
 
 ## ODEs
 
-- [Boost OdeInt](https://www.boost.org/doc/libs/1_81_0/libs/numeric/odeint/doc/html/index.html) A library for solving initial value problems (IVP) of ordinary differential equations. (C++, Boost, [GitHub](https://github.com/boostorg/odeint)) 
+- [Boost OdeInt](https://www.boost.org/doc/libs/1_81_0/libs/numeric/odeint/doc/html/index.html) - A library for solving initial value problems (IVP) of ordinary differential equations. (C++, Boost, [GitHub](https://github.com/boostorg/odeint)) 
 
 ## GPUs
 
-- [Boost Compute](http://boostorg.github.io/compute/) provides a C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
+- [Boost Compute](http://boostorg.github.io/compute/) provides a C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL. (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
 
 
 ## Solvers
 
-- [Sundials](https://computing.llnl.gov/projects/sundials) SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. (C/C++/Fortran, BSD-3, [GitHub](https://github.com/LLNL/sundials) )
+- [Sundials](https://computing.llnl.gov/projects/sundials) - SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. (C/C++/Fortran, BSD-3, [GitHub](https://github.com/LLNL/sundials))
 
 ## Wave propagation
 
-- [jaxwell](https://github.com/stanfordnqp/jaxwell) an iterative solver for solving the finite-difference frequency-domain Maxwell equations on NVIDIA GPUs (Python, GPL-3, GitHub )
-- [jwave](https://ucl-bug.github.io/jwave) k-Wave in JAX (Python, LGPL-3, [GitHub](https://github.com/ucl-bug/jwave) )
-- [HITU_simulator](https://github.com/jsoneson/HITU_Simulator) nonlinear axisymmetric beamer simulator (Matlab, GPL-3, GitHub )
+- [jaxwell](https://github.com/stanfordnqp/jaxwell) - An iterative solver for solving the finite-difference frequency-domain Maxwell equations on NVIDIA GPUs. (Python, GPL-3, GitHub)
+- [jwave](https://ucl-bug.github.io/jwave) - k-Wave in JAX. (Python, LGPL-3, [GitHub](https://github.com/ucl-bug/jwave))
+- [HITU_simulator](https://github.com/jsoneson/HITU_Simulator) - A nonlinear axisymmetric beamer simulator. (Matlab, GPL-3, GitHub)
 
 
 ## Other libraries and tools
