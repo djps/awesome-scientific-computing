@@ -184,16 +184,19 @@ them.
 
 ## GPUs
 
-- [Boost Compute](http://boostorg.github.io/compute/) provides a C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL. (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
-
+- [Boost Compute](http://boostorg.github.io/compute/) A C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL. (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
 
 ## Solvers
 
 - [Sundials](https://computing.llnl.gov/projects/sundials) - SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. (C/C++/Fortran, BSD-3, [GitHub](https://github.com/LLNL/sundials))
+- [diffeqpy](https://github.com/SciML/diffeqpy) - Python wrapper for DifferentialEquations.jl (Python/Julia, MIT, GitHub)
 
 ## Wave propagation
 
 - [jaxwell](https://github.com/stanfordnqp/jaxwell) - An iterative solver for solving the finite-difference frequency-domain Maxwell equations on NVIDIA GPUs. (Python, GPL-3, GitHub)
+- [fd3d](http://www.mit.edu/~wsshin/fd3d.html) - Solve the frequency-domain Maxwell's equations in a 3D domain, using an iterative methods to avoid the large memory requirement of direct methods for 3D problems. (C, [GitHub](https://github.com/wsshin/fd3d))
+- [Maxwellfdfd](http://www.mit.edu/~wsshin/maxwellfdfd.html) - Solves the frequency-domain Maxwell's equations (Matlab, [GitHub](https://github.com/wsshin/maxwellfdfd))
+- [bempp](https://bempp.com/) - open-source computational boundary element platform to solve electrostatic, acoustic and electromagnetic problems. (Python, MIT, [GitHub](https://github.com/bempp))
 - [jwave](https://ucl-bug.github.io/jwave) - k-Wave in JAX. (Python, LGPL-3, [GitHub](https://github.com/ucl-bug/jwave))
 - [HITU_simulator](https://github.com/jsoneson/HITU_Simulator) - A nonlinear axisymmetric beamer simulator. (Matlab, GPL-3, GitHub)
 
@@ -257,3 +260,4 @@ them.
 - [NA Digest](https://netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 - [Gabriel Peyré on Twitter](https://twitter.com/gabrielpeyre) - One tweet a day on computational mathematics.
 - [Discord: Numerical Software](https://discord.com/invite/hnTJ5MRX2Y) - Discord messaging server on numerical software.
+- [SciML](https://sciml.ai/) - Website for open source software for scientific machine learning
