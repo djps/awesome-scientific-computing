@@ -188,6 +188,11 @@ them.
 
 - [ITK](https://itk.org/) - Spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions. (C++, Apache-2, [GitHub](https://github.com/InsightSoftwareConsortium/ITK))
 - [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - Software for the development of interactive medical image processing software (C++, BSD-3-clause, [GitHub](https://github.com/MITK/MITK))
+- [DicomToMesh](https://github.com/AOT-AG/DicomToMesh) - converts DICOM to an stl
+- [SimVascular](http://simvascular.github.io/index.html) - Simulations on vessels (C++, GNU, [GitHub](https://github.com/SimVascular/SimVascular))
+- [vmkt](http://vmtk.org/) - Vascular modelling toolkit (C/C++, BSD, [GitHub](https://github.com/vmtk/vmtk))
+- [FeBio](https://febio.org/) finite elements for biological tissue (C++, MIT, [GitHub](https://github.com/febiosoftware/FEBio))
+- [Iso2Mesh](https://iso2mesh.sourceforge.net/cgi-bin/index.cgi) - a 3D surface and volumetric mesh generator for MATLAB/Octave (Matlab, GPL, [GitHub](https://github.com/fangq/iso2mesh))
 
 ## Platforms
 
