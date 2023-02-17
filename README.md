@@ -209,10 +209,11 @@ them.
 
 ## GPUs
 
-- [Boost Compute](http://boostorg.github.io/compute/) A C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL. (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
-- clblast
-- arrayfire
-- viennaCL
+- [OpenCL]() - GPGPU language ([GitHub](https://github.com/KhronosGroup/OpenCL-Headers))
+- [Boost Compute](http://boostorg.github.io/compute/) - A C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL. (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
+- [CLBlast](https://github.com/CNugteren/CLBlast) - OpenCL BLAS library written in C++11 (C++, Apache-2, GitHub) 
+- [arrayfire](https://arrayfire.com/) - A general purpose GPU library (C++, BSD-3,[GitHub](https://github.com/arrayfire/arrayfire))
+- [viennaCL](https://viennacl.sourceforge.net/) - Open-source linear algebra library for computations on many-core architectures (C++, GNU, [GitHub](https://github.com/viennacl/viennacl-dev))
 
 ## Solvers
 
