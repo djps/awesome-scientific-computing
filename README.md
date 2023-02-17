@@ -26,6 +26,7 @@ them.
 - [Solvers](#solvers)
 - [Wave propagation](#wave-propagation)
 - [Physics-informed neural networks](#physics-informed-neural-networks)
+- [SBML](#sbml)
 - [Other libraries and tools](#other-libraries-and-tools)
 - [Community](#community)
 
@@ -227,6 +228,10 @@ them.
 ## Physics-informed neural networks
 
 - [SciML](https://sciml.ai/) - Website for open source software for scientific machine learning
+
+## SBML
+
+- [sbml](https://sbml.org/software/libsbml) - Native library for reading, writing and manipulating files and data streams containing the Systems Biology Markup Language (C/C++/C#/Java/JavaScript/MATLAB/Perl/PHP/Python/R/Ruby, LGPL-2, [GitHub](https://github.com/sbmlteam/libsbml)).
 
 ----
 
