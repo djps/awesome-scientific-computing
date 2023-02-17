@@ -199,6 +199,8 @@ them.
 - [rapidxml](https://rapidxml.sourceforge.net/) 
 - [Boost Property Tree](https://www.boost.org/doc/libs/1_81_0/doc/html/property_tree.html) - provides a data structure that stores an arbitrarily deeply nested tree of values, indexed at each level by some key (C++, Boost, [GitHub](https://github.com/boostorg/property_tree))
 - [json](https://json.nlohmann.me/) - json for modern C++ (C++, MIT, [GitHub](https://github.com/nlohmann/json))
+- [pydicom](https://pydicom.github.io/pydicom/dev) - Read, modify and write DICOM files with python code (Python, MIT, [GitHub](https://github.com/pydicom/pydicom))
+- [OpenIGTLink](http://openigtlink.org/) - (C/C++, BSD-3-clause, [GitHub](https://github.com/openigtlink/OpenIGTLink))
 
 ## ODEs
 
@@ -227,7 +229,6 @@ them.
 - [SciML](https://sciml.ai/) - Website for open source software for scientific machine learning
 
 ----
-
 
 ## Other libraries and tools
 
