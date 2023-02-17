@@ -210,6 +210,9 @@ them.
 ## GPUs
 
 - [Boost Compute](http://boostorg.github.io/compute/) A C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL. (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
+- clblast
+- arrayfire
+- viennaCL
 
 ## Solvers
 
