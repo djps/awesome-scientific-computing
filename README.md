@@ -20,11 +20,12 @@ them.
 - [Sparse linear solvers](#sparse-linear-solvers)
 - [Visualization](#visualization)
 - [Platforms](#platforms)
+- [I/O](#io)
 - [ODEs](#odes)
 - [GPUs](#gpus)
 - [Solvers](#solvers)
 - [Wave propagation](#wave-propagation)
-- [Physics-informed neural networks](physics-informed-neural-networks)
+- [Physics-informed neural networks](#physics-informed-neural-networks)
 - [Other libraries and tools](#other-libraries-and-tools)
 - [Community](#community)
 
@@ -182,10 +183,22 @@ them.
 
 ----
 
+## Medical image computing
+
+- [ITK](https://itk.org/) - Spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions. (C++, Apache-2, [GitHub](https://github.com/InsightSoftwareConsortium/ITK))
+- [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - Software for the development of interactive medical image processing software (C++, BSD-3-clause, [GitHub](https://github.com/MITK/MITK))
+
 ## Platforms
 
 - [Slicer3D](https://www.slicer.org/) - Visualization, processing, segmentation, registration, and analysis of medical, biomedical, and other 3D images and meshes; and planning and navigating image-guided procedures. (C++, BSD-like, [GitHub](https://github.com/Slicer/Slicer))
   - [SlicerIGT](https://www.slicerigt.org/wp/) - Modules supporting image-guided interventions in 3D Slicer. (C++, BSD-3-clause, [GitHub](https://github.com/SlicerIGT))
+- MITK Workbench - platform for MITK.
+
+## I/O
+
+- [rapidxml](https://rapidxml.sourceforge.net/) 
+- [Boost Property Tree](https://www.boost.org/doc/libs/1_81_0/doc/html/property_tree.html) - provides a data structure that stores an arbitrarily deeply nested tree of values, indexed at each level by some key (C++, Boost, [GitHub](https://github.com/boostorg/property_tree))
+- [json](https://json.nlohmann.me/) - json for modern C++ (C++, MIT, [GitHub](https://github.com/nlohmann/json))
 
 ## ODEs
 
@@ -208,7 +221,6 @@ them.
 - [bempp](https://bempp.com/) - open-source computational boundary element platform to solve electrostatic, acoustic and electromagnetic problems. (Python, MIT, [GitHub](https://github.com/bempp))
 - [jwave](https://ucl-bug.github.io/jwave) - k-Wave in JAX. (Python, LGPL-3, [GitHub](https://github.com/ucl-bug/jwave))
 - [HITU_simulator](https://github.com/jsoneson/HITU_Simulator) - A nonlinear axisymmetric beamer simulator. (Matlab, GPL-3, GitHub)
-
 
 ## Physics-informed neural networks
 
