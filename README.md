@@ -19,10 +19,12 @@ them.
 - [Data formats](#data-formats)
 - [Sparse linear solvers](#sparse-linear-solvers)
 - [Visualization](#visualization)
+- [Platforms](#platforms)
 - [ODEs](#odes)
 - [GPUs](#gpus)
 - [Solvers](#solvers)
-- [Wave Propagation](#wave-propagation)
+- [Wave propagation](#wave-propagation)
+- [Physics-informed neural networks](physics-informed-neural-networks)
 - [Other libraries and tools](#other-libraries-and-tools)
 - [Community](#community)
 
@@ -178,6 +180,13 @@ them.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
 - [morphologica](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
 
+----
+
+## Platforms
+
+- [Slicer3D](https://www.slicer.org/) - Visualization, processing, segmentation, registration, and analysis of medical, biomedical, and other 3D images and meshes; and planning and navigating image-guided procedures. (C++, BSD-like, [GitHub](https://github.com/Slicer/Slicer))
+  - [SlicerIGT](https://www.slicerigt.org/wp/) - Modules supporting image-guided interventions in 3D Slicer. (C++, BSD-3-clause, [GitHub](https://github.com/SlicerIGT))
+
 ## ODEs
 
 - [Boost OdeInt](https://www.boost.org/doc/libs/1_81_0/libs/numeric/odeint/doc/html/index.html) - A library for solving initial value problems (IVP) of ordinary differential equations. (C++, Boost, [GitHub](https://github.com/boostorg/odeint)) 
@@ -199,6 +208,13 @@ them.
 - [bempp](https://bempp.com/) - open-source computational boundary element platform to solve electrostatic, acoustic and electromagnetic problems. (Python, MIT, [GitHub](https://github.com/bempp))
 - [jwave](https://ucl-bug.github.io/jwave) - k-Wave in JAX. (Python, LGPL-3, [GitHub](https://github.com/ucl-bug/jwave))
 - [HITU_simulator](https://github.com/jsoneson/HITU_Simulator) - A nonlinear axisymmetric beamer simulator. (Matlab, GPL-3, GitHub)
+
+
+## Physics-informed neural networks
+
+- [SciML](https://sciml.ai/) - Website for open source software for scientific machine learning
+
+----
 
 
 ## Other libraries and tools
@@ -260,4 +276,3 @@ them.
 - [NA Digest](https://netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 - [Gabriel Peyré on Twitter](https://twitter.com/gabrielpeyre) - One tweet a day on computational mathematics.
 - [Discord: Numerical Software](https://discord.com/invite/hnTJ5MRX2Y) - Discord messaging server on numerical software.
-- [SciML](https://sciml.ai/) - Website for open source software for scientific machine learning
