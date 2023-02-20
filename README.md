@@ -202,7 +202,7 @@ them.
 
 ## I/O
 
-- [rapidxml](https://rapidxml.sourceforge.net/) 
+- [rapidxml](https://rapidxml.sourceforge.net/) - handling of xml in C++ (C++, SourceForge)
 - [Boost Property Tree](https://www.boost.org/doc/libs/1_81_0/doc/html/property_tree.html) - provides a data structure that stores an arbitrarily deeply nested tree of values, indexed at each level by some key (C++, Boost, [GitHub](https://github.com/boostorg/property_tree))
 - [json](https://json.nlohmann.me/) - json for modern C++ (C++, MIT, [GitHub](https://github.com/nlohmann/json))
 - [pydicom](https://pydicom.github.io/pydicom/dev) - Read, modify and write DICOM files with python code (Python, MIT, [GitHub](https://github.com/pydicom/pydicom))
@@ -219,6 +219,8 @@ them.
 - [CLBlast](https://github.com/CNugteren/CLBlast) - OpenCL BLAS library written in C++11 (C++, Apache-2, GitHub) 
 - [arrayfire](https://arrayfire.com/) - A general purpose GPU library (C++, BSD-3,[GitHub](https://github.com/arrayfire/arrayfire))
 - [viennaCL](https://viennacl.sourceforge.net/) - Open-source linear algebra library for computations on many-core architectures (C++, GNU, [GitHub](https://github.com/viennacl/viennacl-dev))
+- SyCL
+- HIP
 
 ## Solvers
 
