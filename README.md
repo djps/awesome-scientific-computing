@@ -229,12 +229,17 @@ them.
 
 ## Wave propagation
 
+The Focused Ultrasound Foundation provides a set of open-source tools for modelling and validation [[here]](https://www.fusfoundation.org/for-researchers/open-access-technical-tools/#simulation).
+
 - [jaxwell](https://github.com/stanfordnqp/jaxwell) - An iterative solver for solving the finite-difference frequency-domain Maxwell equations on NVIDIA GPUs. (Python, GPL-3, GitHub)
 - [fd3d](http://www.mit.edu/~wsshin/fd3d.html) - Solve the frequency-domain Maxwell's equations in a 3D domain, using an iterative methods to avoid the large memory requirement of direct methods for 3D problems. (C, [GitHub](https://github.com/wsshin/fd3d))
 - [Maxwellfdfd](http://www.mit.edu/~wsshin/maxwellfdfd.html) - Solves the frequency-domain Maxwell's equations (Matlab, [GitHub](https://github.com/wsshin/maxwellfdfd))
 - [bempp](https://bempp.com/) - open-source computational boundary element platform to solve electrostatic, acoustic and electromagnetic problems. (Python, MIT, [GitHub](https://github.com/bempp))
 - [jwave](https://ucl-bug.github.io/jwave) - k-Wave in JAX. (Python, LGPL-3, [GitHub](https://github.com/ucl-bug/jwave))
 - [HITU_simulator](https://github.com/jsoneson/HITU_Simulator) - A nonlinear axisymmetric beamer simulator. (Matlab, GPL-3, GitHub)
+- [Kranion](https://www.fusfoundation.org/for-researchers/resources/kranion/) - interactive transcranial focused ultrasound visualization system (java, MIT, [GitHub](https://github.com/jws2f/Kranion))
+- [Focus](https://www.egr.msu.edu/~fultras-web/) - Fast nearfield method (Matlab)
+- [mSound](https://m-sound.github.io/mSOUND/home) - Solves Westervelt equation by computing multiple reflections (Matlab, GNU, [GitHub](https://github.com/m-SOUND/mSOUND))
 
 ## Physics-informed neural networks
 
