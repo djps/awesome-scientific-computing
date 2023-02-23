@@ -240,6 +240,9 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 - [Kranion](https://www.fusfoundation.org/for-researchers/resources/kranion/) - interactive transcranial focused ultrasound visualization system (java, MIT, [GitHub](https://github.com/jws2f/Kranion))
 - [Focus](https://www.egr.msu.edu/~fultras-web/) - Fast nearfield method (Matlab)
 - [mSound](https://m-sound.github.io/mSOUND/home) - Solves Westervelt equation by computing multiple reflections (Matlab, GNU, [GitHub](https://github.com/m-SOUND/mSOUND))
+- [AberSim](http://folk.ntnu.no/johannk/Abersim/) 
+- [FieldII](http://field-ii.dk/)
+- [Beam](http://limu.msu.ru/node/)
 
 ## Physics-informed neural networks
 
