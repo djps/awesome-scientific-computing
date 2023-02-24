@@ -1,4 +1,6 @@
-# Awesome Scientific Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Scientific Computing 
+
+[![Check Markdown links](https://github.com/djps/awesome-scientific-computing/actions/workflows/check-links.yml/badge.svg)](https://github.com/djps/awesome-scientific-computing/actions/workflows/check-links.yml)
 
 [<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="25%">](#readme)
 
@@ -172,7 +174,7 @@ them.
   (C++, MIT, [GitHub](https://github.com/nmwsharp/polyscope))
 - [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
   (Python, MIT, [GitHub](https://github.com/pyvista/pyvista))
-- [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
+- vedo - Library for scientific analysis and visualization of 3D objects based on VTK.
   (Python, MIT, [GitHub](https://github.com/marcomusy/vedo))
 - [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
   (Python, BSD, [GitHub](https://github.com/yt-project/yt))
@@ -240,7 +242,7 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 - [Kranion](https://www.fusfoundation.org/for-researchers/resources/kranion/) - interactive transcranial focused ultrasound visualization system (java, MIT, [GitHub](https://github.com/jws2f/Kranion))
 - [Focus](https://www.egr.msu.edu/~fultras-web/) - Fast nearfield method (Matlab)
 - [mSound](https://m-sound.github.io/mSOUND/home) - Solves Westervelt equation by computing multiple reflections (Matlab, GNU, [GitHub](https://github.com/m-SOUND/mSOUND))
-- [AberSim](http://folk.ntnu.no/johannk/Abersim/) 
+- AberSim
 - [FieldII](http://field-ii.dk/)
 - [Beam](http://limu.msu.ru/node/)
 
