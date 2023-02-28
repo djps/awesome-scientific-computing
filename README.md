@@ -174,7 +174,7 @@ them.
   (C++, MIT, [GitHub](https://github.com/nmwsharp/polyscope))
 - [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
   (Python, MIT, [GitHub](https://github.com/pyvista/pyvista))
-- vedo - Library for scientific analysis and visualization of 3D objects based on VTK.
+- [vedo](https://vedo.embl.es/) - Library for scientific analysis and visualization of 3D objects based on VTK.
   (Python, MIT, [GitHub](https://github.com/marcomusy/vedo))
 - [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
   (Python, BSD, [GitHub](https://github.com/yt-project/yt))
@@ -242,9 +242,10 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 - [Kranion](https://www.fusfoundation.org/for-researchers/resources/kranion/) - interactive transcranial focused ultrasound visualization system (java, MIT, [GitHub](https://github.com/jws2f/Kranion))
 - [Focus](https://www.egr.msu.edu/~fultras-web/) - Fast nearfield method (Matlab)
 - [mSound](https://m-sound.github.io/mSOUND/home) - Solves Westervelt equation by computing multiple reflections (Matlab, GNU, [GitHub](https://github.com/m-SOUND/mSOUND))
-- AberSim
-- [FieldII](http://field-ii.dk/)
-- [Beam](http://limu.msu.ru/node/)
+- AberSim - No longer maintained/publically available.
+- Bergen - No longer maintained/publically available.
+- [FieldII](http://field-ii.dk/) - Diagnostic simulator (Matlab, MIT)
+- [Beam](http://limu.msu.ru/product/3555/home?language=en) - 3D nonlinear continuous wave simulator (Matlab/Fortran )
 
 ## Physics-informed neural networks
 
