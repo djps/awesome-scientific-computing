@@ -29,6 +29,7 @@ them.
 - [Wave propagation](#wave-propagation)
 - [Physics-informed neural networks](#physics-informed-neural-networks)
 - [SBML](#sbml)
+- [Resources](#resources)
 - [Other libraries and tools](#other-libraries-and-tools)
 - [Community](#community)
 
