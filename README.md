@@ -235,7 +235,8 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 
 - [jaxwell](https://github.com/stanfordnqp/jaxwell) - An iterative solver for solving the finite-difference frequency-domain Maxwell equations on NVIDIA GPUs. (Python, GPL-3, GitHub)
 - [fd3d](http://www.mit.edu/~wsshin/fd3d.html) - Solve the frequency-domain Maxwell's equations in a 3D domain, using an iterative methods to avoid the large memory requirement of direct methods for 3D problems. (C, [GitHub](https://github.com/wsshin/fd3d))
-- [Maxwellfdfd](http://www.mit.edu/~wsshin/maxwellfdfd.html) - Solves the frequency-domain Maxwell's equations (Matlab, [GitHub](https://github.com/wsshin/maxwellfdfd))
+- [Maxwellfdfd](http://www.mit.edu/~wsshin/maxwellfdfd.html) - Solves the frequency-domain Maxwell's equations (Matlab, [GitHub](https://github.com/wsshin/maxwellfdfd)) - 
+- [py-maxwell-fd3d]( https://github.com/zhaonat/py-maxwell-fd3d) - Solve the frequency-domain Maxwell's equations in a 3D domain, with direct and iterative methods (python, MIT, GitHub)
 - [bempp](https://bempp.com/) - open-source computational boundary element platform to solve electrostatic, acoustic and electromagnetic problems. (Python, MIT, [GitHub](https://github.com/bempp))
 - [jwave](https://ucl-bug.github.io/jwave) - k-Wave in JAX. (Python, LGPL-3, [GitHub](https://github.com/ucl-bug/jwave))
 - [HITU_simulator](https://github.com/jsoneson/HITU_Simulator) - A nonlinear axisymmetric beamer simulator. (Matlab, GPL-3, GitHub)
@@ -254,6 +255,11 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 ## SBML
 
 - [sbml](https://sbml.org/software/libsbml) - Native library for reading, writing and manipulating files and data streams containing the Systems Biology Markup Language (C/C++/C#/Java/JavaScript/MATLAB/Perl/PHP/Python/R/Ruby, LGPL-2, [GitHub](https://github.com/sbmlteam/libsbml)).
+
+## Resources
+
+- [Mathematical Tours](https://mathematical-tours.github.io/) - Mathematical tours of data science.
+- [Numerical Tours](http://www.numerical-tours.com/) - Numerical tours of data science.
 
 ----
 
