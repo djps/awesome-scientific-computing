@@ -228,6 +228,7 @@ them.
 ## Solvers
 
 - [Sundials](https://computing.llnl.gov/projects/sundials) - SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. (C/C++/Fortran, BSD-3, [GitHub](https://github.com/LLNL/sundials))
+- [Slate](https://icl.utk.edu/slate/) - dense linear algebra for HPC (C++, BSD-3, [GitHub](https://github.com/icl-utk-edu/slate))
 - [diffeqpy](https://github.com/SciML/diffeqpy) - Python wrapper for DifferentialEquations.jl (Python/Julia, MIT, GitHub)
 
 ## Wave propagation
@@ -261,6 +262,9 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 
 - [Mathematical Tours](https://mathematical-tours.github.io/) - Mathematical tours of data science.
 - [Numerical Tours](http://www.numerical-tours.com/) - Numerical tours of data science.
+
+- [heffte](https://github.com/icl-utk-edu/heffte) - Highly Efficient FFT for Exascale (C++, BSD-3, [GitHub](https://github.com/icl-utk-edu/heffte))
+
 
 ----
 
