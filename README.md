@@ -250,6 +250,7 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 - [FieldII](http://field-ii.dk/) - Diagnostic simulator (Matlab, MIT)
 - [Beam](http://limu.msu.ru/product/3555/home?language=en) - 3D nonlinear continuous wave simulator (Matlab/Fortran )
 - [Stride](https://www.stride.codes/) - modelling and optimisation framework for medical ultrasound (python, AGPL-3, [GitHub](https://github.com/trustimaging/stride))
+- [BabelBrain](https://github.com/ProteusMRIgHIFU/BabelViscoFDTD) - FDTD of viscoelastic equation using a staggered grid arrangement with support for GPU and CPU backends (C++/OpenCL, BSD-3, GitHub) 
 
 ## Physics-informed neural networks
 
