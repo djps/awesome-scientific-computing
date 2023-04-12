@@ -249,6 +249,7 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 - Bergen - No longer maintained/publically available.
 - [FieldII](http://field-ii.dk/) - Diagnostic simulator (Matlab, MIT)
 - [Beam](http://limu.msu.ru/product/3555/home?language=en) - 3D nonlinear continuous wave simulator (Matlab/Fortran )
+- [Stride](https://www.stride.codes/) - modelling and optimisation framework for medical ultrasound (python, AGPL-3, [GitHub](https://github.com/trustimaging/stride))
 
 ## Physics-informed neural networks
 
