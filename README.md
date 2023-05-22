@@ -328,5 +328,7 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 - [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
 - [Jack Dongarra's software list](https://netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
 - [NA Digest](https://netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
+<!-- markdown-link-check-disable -->
 - [Gabriel Peyré on Twitter](https://twitter.com/gabrielpeyre) - One tweet a day on computational mathematics.
+<!-- markdown-link-check-enable -->
 - [Discord: Numerical Software](https://discord.com/invite/hnTJ5MRX2Y) - Discord messaging server on numerical software.
