@@ -1,10 +1,10 @@
-# Awesome Scientific Computing 
+# Awesome Scientific Computing
 
 [![Check Markdown links](https://github.com/djps/awesome-scientific-computing/actions/workflows/check-links.yml/badge.svg)](https://github.com/djps/awesome-scientific-computing/actions/workflows/check-links.yml)
 
 [<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="25%">](#readme)
 
-> Useful resources for scientific computing and numerical analysis, with a selection of ultrasound tools 
+> Useful resources for scientific computing and numerical analysis, with a selection of ultrasound tools
 
 Scientific computing and numerical analysis are research fields that aim to provide
 methods for solving large-scale problems from various areas of science with the help of
@@ -101,7 +101,7 @@ them.
 - [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
   (C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal))
 - [pygalmesh](https://github.com/meshpro/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
-  (Python, proprietary, GitHub)
+  (Python, GPL 3, GitHub)
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
   (C++, AGPLv3)
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
@@ -213,13 +213,13 @@ them.
 
 ## ODEs
 
-- [Boost OdeInt](https://www.boost.org/doc/libs/1_81_0/libs/numeric/odeint/doc/html/index.html) - A library for solving initial value problems (IVP) of ordinary differential equations. (C++, Boost, [GitHub](https://github.com/boostorg/odeint)) 
+- [Boost OdeInt](https://www.boost.org/doc/libs/1_81_0/libs/numeric/odeint/doc/html/index.html) - A library for solving initial value problems (IVP) of ordinary differential equations. (C++, Boost, [GitHub](https://github.com/boostorg/odeint))
 
 ## GPUs
 
 - [OpenCL]() - GPGPU language ([GitHub](https://github.com/KhronosGroup/OpenCL-Headers))
-- [Boost Compute](http://boostorg.github.io/compute/) - A C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL. (C++, Boost, [GitHub](https://github.com/boostorg/compute)) 
-- [CLBlast](https://github.com/CNugteren/CLBlast) - OpenCL BLAS library written in C++11 (C++, Apache-2, GitHub) 
+- [Boost Compute](http://boostorg.github.io/compute/) - A C++ interface to multi-core CPU and GPGPU computing platforms based on OpenCL. (C++, Boost, [GitHub](https://github.com/boostorg/compute))
+- [CLBlast](https://github.com/CNugteren/CLBlast) - OpenCL BLAS library written in C++11 (C++, Apache-2, GitHub)
 - [arrayfire](https://arrayfire.com/) - A general purpose GPU library (C++, BSD-3,[GitHub](https://github.com/arrayfire/arrayfire))
 - [viennaCL](https://viennacl.sourceforge.net/) - Open-source linear algebra library for computations on many-core architectures (C++, GNU, [GitHub](https://github.com/viennacl/viennacl-dev))
 - SyCL
@@ -237,7 +237,7 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 
 - [jaxwell](https://github.com/stanfordnqp/jaxwell) - An iterative solver for solving the finite-difference frequency-domain Maxwell equations on NVIDIA GPUs. (Python, GPL-3, GitHub)
 - [fd3d](http://www.mit.edu/~wsshin/fd3d.html) - Solve the frequency-domain Maxwell's equations in a 3D domain, using an iterative methods to avoid the large memory requirement of direct methods for 3D problems. (C, [GitHub](https://github.com/wsshin/fd3d))
-- [Maxwellfdfd](http://www.mit.edu/~wsshin/maxwellfdfd.html) - Solves the frequency-domain Maxwell's equations (Matlab, [GitHub](https://github.com/wsshin/maxwellfdfd)) - 
+- [Maxwellfdfd](http://www.mit.edu/~wsshin/maxwellfdfd.html) - Solves the frequency-domain Maxwell's equations (Matlab, [GitHub](https://github.com/wsshin/maxwellfdfd)) -
 - [py-maxwell-fd3d]( https://github.com/zhaonat/py-maxwell-fd3d) - Solve the frequency-domain Maxwell's equations in a 3D domain, with direct and iterative methods (python, MIT, GitHub)
 - [bempp](https://bempp.com/) - open-source computational boundary element platform to solve electrostatic, acoustic and electromagnetic problems. (Python, MIT, [GitHub](https://github.com/bempp))
 - [jwave](https://ucl-bug.github.io/jwave) - k-Wave in JAX. (Python, LGPL-3, [GitHub](https://github.com/ucl-bug/jwave))
@@ -250,7 +250,7 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 - [FieldII](http://field-ii.dk/) - Diagnostic simulator (Matlab, MIT)
 - [Beam](http://limu.msu.ru/product/3555/home?language=en) - 3D nonlinear continuous wave simulator (Matlab/Fortran )
 - [Stride](https://www.stride.codes/) - modelling and optimisation framework for medical ultrasound (python, AGPL-3, [GitHub](https://github.com/trustimaging/stride))
-- [BabelBrain](https://github.com/ProteusMRIgHIFU/BabelViscoFDTD) - FDTD of viscoelastic equation using a staggered grid arrangement with support for GPU and CPU backends (C++/OpenCL, BSD-3, GitHub) 
+- [BabelBrain](https://github.com/ProteusMRIgHIFU/BabelViscoFDTD) - FDTD of viscoelastic equation using a staggered grid arrangement with support for GPU and CPU backends (C++/OpenCL, BSD-3, GitHub)
 - [FiVoNAGI](https://github.com/rvelseg/FiVoNAGI) - Finite volume nonlinear acoustics GPU implementation in 2D (C++/Cuda, BSD, GitHub)
 
 ## Physics-informed neural networks
@@ -289,7 +289,7 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
   license](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications),
   [GitHub](https://github.com/usnistgov/fipy))
 - [accupy](https://github.com/sigma-py/accupy) - Accurate sums and dot products for Python.
-  (Python, proprietary, GitHub)
+  (Python, GPL 3, GitHub)
 - [SLEPc](https://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [GitLab](https://gitlab.com/slepc/slepc))
 - [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
