@@ -44,6 +44,7 @@ them.
   (C, BSD, GitHub)
 - [LAPACK](https://netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
+<!-- markdown-link-check-disable -->
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
   (C++, MPL 2, [GitLab](https://gitlab.com/libeigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
@@ -248,6 +249,7 @@ The Focused Ultrasound Foundation provides a set of open-source tools for modell
 - AberSim - No longer maintained/publically available.
 - Bergen - No longer maintained/publically available.
 - [FieldII](http://field-ii.dk/) - Diagnostic simulator (Matlab, MIT)
+<!-- markdown-link-check-disable -->
 - [Beam](http://limu.msu.ru/product/3555/home?language=en) - 3D nonlinear continuous wave simulator (Matlab/Fortran )
 - [Stride](https://www.stride.codes/) - modelling and optimisation framework for medical ultrasound (python, AGPL-3, [GitHub](https://github.com/trustimaging/stride))
 - [BabelBrain](https://github.com/ProteusMRIgHIFU/BabelViscoFDTD) - FDTD of viscoelastic equation using a staggered grid arrangement with support for GPU and CPU backends (C++/OpenCL, BSD-3, GitHub)
